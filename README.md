@@ -7,7 +7,7 @@
 1. Install Subgraph CLI
 
 ```
-npm install add @graphprotocol/graph-cli
+npm install @graphprotocol/graph-cli
 ```
 
 2. Log into [the graph UI](https://thegraph.com/studio/subgraph) and create a new Subgraph.
